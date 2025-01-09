@@ -1,0 +1,79 @@
+[
+    {
+        "title": "Inception",
+        "genre": ["Sci-Fi"]
+    },
+    {
+        "title": "The Dark Knight",
+        "genre": ["Action"]
+    },
+    {
+        "title": "Interstellar",
+        "genre": ["Sci-Fi"]
+    },
+    {
+        "title": "Pulp Fiction",
+        "genre": ["Crime"]
+    },
+    {
+        "title": "Disturbia",
+        "genre": [ "Thriller"]
+    },
+    {
+        "title": "The Conjuring",
+        "genre": ["Horror"]
+    },
+    {
+        "title": "SuperBad",
+        "genre": ["Comedy"]
+    },
+    {
+        "title": "The Shawshank Redemption",
+        "genre": ["Drama"]
+    },
+
+    {
+        "title": "The Terminal",
+        "genre": ["Comedy"]
+    },
+
+    {
+        "title": "Bean The Movie",
+        "genre": ["Comedy"]
+    },
+
+    {
+        "title": "Avengers",
+        "genre": ["Action"]
+    },
+
+    {
+        "title": "Star Wars : Revenge of the Sith",
+        "genre": ["Sci-Fi"]
+    },
+
+
+    {
+        "title": "Hereditary",
+        "genre": ["Horror"]
+    },
+
+
+    {
+        "title": "Seven",
+        "genre": ["Thriller"]
+    },
+
+
+    {
+        "title": "Gladiator",
+        "genre": ["Action"]
+    },
+
+
+    {
+        "title": "The Godfather",
+        "genre": ["Crime"]
+    }
+
+]
